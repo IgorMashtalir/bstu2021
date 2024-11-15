@@ -1,0 +1,230 @@
+Hello,1
+
+Web access to the account has been opened to the IP address XXXXXXX
+
+Please let us know when the problem is fixed and we'll open full access to your website
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day.
+
+______________________________________________
+Hello,
+
+The process of the scan is on 68%
+
+Unfortunately, we haven't ability to speed up scan process.
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day,
+
+______________________________________________
+Hello,
+
+Please check now to your account.
+
+Thank you and have a great day.
+
+Thanks for your update!
+
+_____________________________________________
+
+
+Thank you for your notification and please let us know if you will detect any other malicious activity.
+According to my investigation the issue with your account is related to non updated Drupal installation. So, in order to solve this issue completely I recommend you update your Drupal to the latest version.
+
+Also, please note that the simple removing an infected files does not solve such issue. You will need to update your WordPress (modules/themes), this procedure should fix the problem.
+
+
+https://gyazo.com/7690e888b7d65cf5d9ec2c331eceb004
+______________________________________________
+Hello,
+
+I have re-scanned your account and found following malicious files :
+
+______________________________________________
+
+Hello,
+
+I have rescanned your account and didn't find any malicious files.
+
+Full access has been already granted to your website.
+
+Thank you for your time and attention to this matter.
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day.
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+I checked your account on existing files from DCMA comlaint, and confirm of replacing they.
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+_________________________________________________
+прохання дати IP
+
+Hello,
+
+Please provide us with your WAN IP address and we will open access from it to your account.
+
+You can get your IPv4 IP here:
+
+http://ipv4.whatismyv6.com/.
+обновити WORDPress
+
+Please note that the simple removing an infected files does not solve such issue. You will need to update your WordPress (modules/themes), this procedure should fix the problem.
+____________________________________________________
+підтвердження видалення файлів
+______________________________________________________________________
+We have opened access from your the IP address thus you will have the ability to take appropriate measures.
+
+Also you can remove this files from cPanel File Manager or FTP client.
+________________________________________________________________________
+
+We can remove the affected files. 
+
+However, if affected files are the part of your CMS, then your site can be broken after removing these files. 
+
+In such a case removed files must be replaced with an original and clean copy.
+
+Also, even if we remove malicious files, further steps are up to you (it's about changing passwords and updating software).
+
+ Please confirm deletion.
+____________________________________________________
+In such a case removed files must be replaced with an original and clean copy.
+_______________________________________________
+It seems you did not notice my request for your WAN IP address.
+________________________________________________________________
+spam CATCHA
+
+Hello,
+
+I have checked and no found captcha for your contact form. Please add or enable captcha for you form.
+We can open access of all of employees or just you.
+
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day, 
+
+
+But check your captcha, it does not work correctly.
+
+_______________________________________________
+фігня це а незнаю
+
+Hello,
+
+1. Reply to this e-mail with your IP address.
+
+We will allow an authorized connection to your account by allowing an authorized IP address to connect to your account. If you do not know your IP address, in Google type "Google what is my ip address". An example of an IP Address: 111.222.333.444. If you have a webmaster that takes care of your website, please ensure that we are provided their IP address.
+_____________________________________________-
+не авторизивався на c panel
+Hello,
+
+Please clear your browser cookies and cache also refresh the page by Ctrl+F5 and try to enter your site again.
+
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day,
+________________________________________________
+__________________статус waiting castumer
+
+Hello,
+
+I am switching the ticket's status to "Waiting on Customer". It means you are free to update this ticket at any time when necessary.______________________________
+статус waiting castumer
+___________________________________________________________________
+IPv6 IPV4
+Hello,
+
+Please provide us with the IPv4 address instead IPv6.
+
+Thus you will have the ability to take appropriate measures.
+
+Here is the link to find out what your WAN IP is:http://myip.is/
+
+Looking forward to hearing from you
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day,
+_______________________________________________
+Hello,
+
+Thank you for your response.
+As you can see from the provided screenshot, in order to solve this issue you should call our customers support line at 1-877-326-7483, choose option 2 and provide the error code which you got (0203003).
+_______________________________________________________-
+Hello,
+
+It seems that you have tried to set the password which too easy.
+Please try to set the password to something that's hard to guess such as: Xs0u3hn@Ms5.
+_________________________________________________________________________________
+Hello,
+
+You can change your cPanel password from within the Account Manager. Please remember that you may have more than one password here at Green Geeks (for instance you may have a different password for your Account Manager).
+
+jiddukri@chi-node36 [~]# uapi LastLogin get_last_or_current_logged_in_ip | grep data
+
+wp core download --force
+
+wp plugin status
+
+Changing your cPanel password:
+
+Login to the Account Manager at http://www.greengeeks.com/login/
+Click on “My Services” from the top menu bar.
+Click on “View Details” button beside your hosting account.
+Click on the “Change Password” tab
+Enter a new password twice.
+Click “Save Changes”
+
+If you’ve lost your Account Manager username/password, you can reset it by going to: http://www.greengeeks.com/login/ and clicking on the “Forgot Password?” link under the Account Manager login box.
+
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day
+_________________________________________________________________________________
+проблеми з плагіном 
+Hello,
+
+Since nothing relevant has been recorded in the apache error log this appears to be an internal issue with your software rather than a server-side problem. As for me, the issue is related to your theme Gazeti.
+Alternatively, we'd suggest to test the website having deactivated all plugins, and activated a default theme. This will show you if there's a problem with the basic installation of WP. If that loads fine activate the theme and the plugins one-by-one to see which one creates the problem.
+____________________________________________________________________________________
+drupal 
+
+Also, please note that you are using an outdated version of Drupal "Drupal 7.32, 2014-10-15". Please update it to the last stable version otherwise the issue will be repeated. Also please do the following steps to resolve the issue completely:
+1. Check all computers used by you to manage the website/account using some latest antivirus software and remove all viruses/trojans if something is detected.
+2. Log into your cPanel from a clean computer and reset your cPanel/FTP/Mail passwords to something hard guessed like S893jJUyd5fggh1c&4
+3. Update all applications and their addon modules/themes/plugins installed by you into your account up to the latest version.
+_____________________________________________________________________________________
+How you ensure that this issue not happen again.
+___________________________________________________________
+Hello,
+
+We are sorry for inconveniences.
+
+Please ignore this message
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day.
+______________________________________________________________
+хуйня яка залується на DMCA
+Hello,
+
+We apologize for making you worry .
+
+However, we received listed earlier complaint about violation of digital copyright, and sent you this.
+
+In this complaint, the author, James Cristopher, asserts that your website has been violating DCMA law for his website (secure.imvu.com).
+
+Also, you can write to the author of this complaint, and describe your situation in detail in order for him to cancel this complaint.
+
+We have zero tolerance for violation DMCA, and we request to you resolve this issue during one day, or we will block your account.
+
+Please get back to us if you need any further assistance and let us know how else we can help.
+
+Thank you and have a great day,
+________________________________________________________________________________________
